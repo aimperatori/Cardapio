@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cardapio</string>
+    <string name="txtcchorroQuente">Cachorro Quente</string>
+    <string name="txtbauruS">Bauru Simples</string>
+    <string name="txtbauruOvo">Bauru com ovo</string>
+    <string name="txtIncluir">Incluir na Conta</string>
+    <string name="txtnovoCliente">Novo Cliente</string>
+    <string name="txtComissao">Comissão de 10%</string>
+</resources>
